@@ -1,0 +1,5 @@
+print("Hello"and "World")
+print(""and "World")
+print(""or "World")
+print(not "Hello")
+print(not "")

@@ -1,0 +1,6 @@
+e1,e2,e3 = input("enter 3number =").split(',')
+e1 = int(e1)
+e2 = int(e2)
+e3 = int(e3)
+result = maths.gcd(e1,e2,e3)
+print(f"GCD of {e1},{e2},{e3}={result}")

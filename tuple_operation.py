@@ -1,0 +1,6 @@
+tuple1 = (1, 'a', 2, 'b')
+tuple2 = (2, 'c', 4, 'd')
+print(type(tuple1))
+print(len(tuple1))
+print(tuple1 + tuple2)
+print(tuple2 * 3)

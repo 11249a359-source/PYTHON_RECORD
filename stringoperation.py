@@ -1,0 +1,11 @@
+a = "Hello, World! "
+print(a[2:5])
+print(a[:5])
+print(a[2:])
+print(a[-5:-2])
+print(a.upper())
+print(a.lower())
+print(a.strip()) 
+print(a.replace("H", "J"))
+print(a.split(","))
+print(len(a))
